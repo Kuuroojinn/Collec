@@ -1,4 +1,4 @@
-# My list of games
+# My list of games  
 
 | Simple List   | Detailed List  |
 ----------------------------------
