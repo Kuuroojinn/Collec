@@ -1,4 +1,4 @@
-### List of 3DS Games
+# List of 3DS Games
 
 
 > *[Back](../games.md) to the menu*
