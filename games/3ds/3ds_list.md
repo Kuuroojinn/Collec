@@ -3,5 +3,5 @@
 
 > *[Back](../games.md) to the menu*
 
-
-- Lego Batman 3
+| Title |
+| - Lego Batman 3 |
