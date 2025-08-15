@@ -8,3 +8,4 @@
 | [Guitar Hero - On Tour : Decades](https://simple.m.wikipedia.org/wiki/Guitar_Hero_On_Tour:_Decades) | NTR-CGSX-EUR | | Game Only | | | With controller|
 | [New Super Mario Bros](https://mario.fandom.com/fr/wiki/New_Super_Mario_Bros.) | NTR-A2DP-EUR | | CIB | | 89 | |
 | [One Piece : Gigant Battle](https://fr.m.wikipedia.org/wiki/One_Piece:_Gigant_Battle!) | NTR-BOJF-FRA	| | Game Only | | | |		
+| [Rhythm Paradise](https://fr.m.wikipedia.org/wiki/Rhythm_Paradise) | NTR-YLZP-EUU | | CIB | | 83 | |
