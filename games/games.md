@@ -5,7 +5,7 @@
 
 | Simple List                                    | Detailed List                                      |  
 | ---------------------------------------------- | -------------------------------------------------- |    
-| [Nintendo 3DS](3ds/3ds_list.md)                | [Nintendo 3DS](3ds_info_games.md)                  |
+| [Nintendo 3DS](3ds/3ds_list.md)                | [Nintendo 3DS](3ds/3ds_info_games.md)              |
 | [Nintendo DS](ds/ds_list.md)                   | [Nintendo DS](ds/ds_info_games.md)                 |  
 | [Nintendo Game Boy Advance](gba/gba_list.md)   | [Nintendo Game Boy Advance](gba/gba_info_games.md) |
 | [Nintendo Game Boy (Color)](gb/gb_list.md)     | [Nintendo Game Boy (Color)](gb/gb_info_games.md)   |
