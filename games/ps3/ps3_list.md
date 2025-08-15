@@ -1,6 +1,9 @@
 ### List of PS3 Games
 
 
+> *[Back](../games.md) to the menu*
 
-
-- Blur
+| Title |
+| --- |
+| Assassin's Creed |
+| Blur |
