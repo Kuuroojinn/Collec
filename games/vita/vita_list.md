@@ -1,6 +1,8 @@
-### List of Vita Games
+# List of Vita Games
+
+> *[Back](../games.md) to the menu*
 
 
-
-
-- Rayman Origins
+| Title |
+| --- |
+| Rayman Origins |
