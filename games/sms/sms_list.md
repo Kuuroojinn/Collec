@@ -1,6 +1,8 @@
-### List of Master System Games
+# List of Master System Games
 
 
+> *[Back](../games.md) to the menu*
 
-
-- Sonic The Hedgehog
+| Title |
+| --- |
+| Sonic The Hedgehog |
