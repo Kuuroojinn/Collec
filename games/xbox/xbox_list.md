@@ -1,6 +1,9 @@
-### List of Xbox Games
+# List of Xbox Games
 
 
 
+> *[Back](../games.md) to the menu*
 
-- Fable : The Lost Chapters
+| Title |
+| --- |
+| Fable : The Lost Chapters |
