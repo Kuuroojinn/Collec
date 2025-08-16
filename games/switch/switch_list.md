@@ -1,6 +1,8 @@
-### List of Switch Games
+# List of Switch Games
 
 
+> *[Back](../games.md) to the menu*
 
-
-- Super Smash Bros Ultimate
+| Title |
+| --- |
+| Super Smash Bros Ultimate |
