@@ -1,6 +1,8 @@
-### List of Xbox 360 Games
+# List of Xbox 360 Games
 
 
+> *[Back](../games.md) to the menu*
 
-
-- 2 in 1 - Pure & Lego Batman
+| Title | 
+| --- |
+| 2 in 1 - Pure & Lego Batman |
