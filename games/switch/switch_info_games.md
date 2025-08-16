@@ -1,5 +1,8 @@
-### List of Switch Games
+# List of Switch Games
 
 
-| Title | Code | PEGI | Description |  State | Date of purchase | Score Metacritic | 
+> *[Back](../games.md) to the menu*
+
+
+| Title | Code | PEGI | State | Date of purchase | Score Metacritic | Description |  
 | --- | --- | --- | --- | --- | --- | --- |
