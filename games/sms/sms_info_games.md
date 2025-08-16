@@ -1,5 +1,7 @@
-### List of Master System Games
+# List of Master System Games
 
 
-| Title | Code | PEGI | Description |  State | Date of purchase | Score Metacritic | 
+> *[Back](../games.md) to the menu*
+
+| Title | Code | PEGI | State | Date of purchase | Score Metacritic | Description |  
 | --- | --- | --- | --- | --- | --- | --- |
