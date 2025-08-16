@@ -1,5 +1,9 @@
-### List of Xbox Games
+# List of Xbox Games
 
 
-| Title | Code | PEGI | Description |  State | Date of purchase | Score Metacritic | 
+> *[Back](../games.md) to the menu*
+
+
+| Title | Code | PEGI | State | Date of purchase | Score Metacritic | Description |  
 | --- | --- | --- | --- | --- | --- | --- |
+| Fable : The Lost Chapters | | 16 | CIB | | Edition Best Of Classic |
