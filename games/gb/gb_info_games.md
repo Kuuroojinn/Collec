@@ -5,3 +5,4 @@
 
 | Title | Code | PEGI |  State | Date of purchase | Score Metacritic | Description | 
 | --- | --- | --- | --- | --- | --- | --- |
+| Taxi 3 | CGB-BXIF-FRA | | Game Only | | | |
