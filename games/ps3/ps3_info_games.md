@@ -11,3 +11,4 @@
 | [Assassin's Creed Revelations](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_Revelations) | BLES-01466 | 18 | CIB | | 80 | English Version |
 | [Batman - Arkham Asylum](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Asylum) | BLES-00827/P | 16 | CIB | | 91 | Edition Game of the year and Platinum |
 | [Batman - Arkham City](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_City) | BLES-00926 | 16 | CIB | | 96 | |
+| [Batman - Arkham Origins](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Origins) | BLES-01784 | 16 | CIB | | 76 | Jaquette Abimée |
