@@ -11,7 +11,7 @@ A basic *list* in markdown, in order to save what I already bought
 
 | Games | Books |
 | --- | --- |
-| [<img src="img/controller.png" width="100">](games/games.md)   | <a href="books/books.md"><img src="img/books.png" width="100"></a> | 
+| [<img src="img/controller.png" width="100">](games/games.md)   | [<img src="img/books.png" width="100">](books/books.md) | 
 
 
 
