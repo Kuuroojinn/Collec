@@ -9,3 +9,4 @@
 | [Assassin's Creed II](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_II) | BLES-00669 | 18 | CIB | | 91 | |
 | [Assassin's Creed III](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_III) | BLES-01667 | 18 | CIB | 2023-12-25 | 85 | |
 | [Assassin's Creed Revelations](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_Revelations) | BLES-01466 | 18 | CIB | | 80 | English Version |
+| [Batman - Arkham Asylum](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Asylum) | BLES-00827/P | 16 | CIB | | 91 | Edition Game of the year and Platinum |
