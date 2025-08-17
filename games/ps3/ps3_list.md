@@ -10,4 +10,5 @@
 | [Assassin's Creed III](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_III) |
 | [Assassin's Creed Revelations](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_Revelations) |
 | [Batman - Arkham Asylum](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Asylum) |
+| [Batman - Arkham City](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_City) |
 | Blur |
