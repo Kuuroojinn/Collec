@@ -11,6 +11,6 @@ A basic *list* in markdown, in order to save what I already bought
 
 | Games | Books |
 | --- | --- |
-| [![Games](img/controller.png =100x100)](games/games.md) | [![Books](img/books.png)](books/books.md) | 
+| [![Games](img/controller.png =x100)](games/games.md) | [![Books](img/books.png)](books/books.md) | 
 - [Games](games/games.md)
 - [Books](books/books.md)
