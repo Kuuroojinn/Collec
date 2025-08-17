@@ -12,3 +12,4 @@
 | [Batman - Arkham Asylum](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Asylum) | BLES-00827/P | 16 | CIB | | 91 | Edition Game of the year and Platinum |
 | [Batman - Arkham City](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_City) | BLES-00926 | 16 | CIB | | 96 | |
 | [Batman - Arkham Origins](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Origins) | BLES-01784 | 16 | CIB | | 76 | Jaquette Abimée |
+| [Battlefield Bad Company](https://fr.m.wikipedia.org/wiki/Battlefield:_Bad_Company) | BLES-00259 | 16 | CIB | | 84 | Edition Platinum |
