@@ -1,6 +1,9 @@
-### List of Xbox One / Xbox Series Games
+# List of Xbox One / Xbox Series Games
 
 
+> *[Back](../games.md) to the menu*
 
+| Title | 
+| --- |
+| Cyberpunk 2077 |
 
-- Cyberpunk 2077
