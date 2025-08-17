@@ -9,4 +9,5 @@
 | [Assassin's Creed II](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_II) |
 | [Assassin's Creed III](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_III) |
 | [Assassin's Creed Revelations](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_Revelations) |
+| [Batman - Arkham Asylum](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Asylum) |
 | Blur |
