@@ -19,7 +19,7 @@
 | [Xbox 360](x360/x360_list.md)                  | [Xbox 360](x360/x360_info_games.md)                |
 | [ Xbox One / Xbox Series](xsx/xsx_list.md)     | [Xbox One / Xbox Series](xsx/xsx_info_games.md)    |
 
-| Nintendo Game Boy (Color) | Nintendo Game Boy Advance | ˋ     Nintendo DS     ˋ |
+| Nintendo Game Boy (Color) | Nintendo Game Boy Advance | ˋˋˋ     Nintendo DS     ˋˋˋ |
 | :---: | :---: | :---: |
 | 1 | 2 | 3 |
 
