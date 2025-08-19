@@ -1,4 +1,4 @@
-# Lsit of Books
+# List of Books
 
 - Mangas
 	- Shonens
