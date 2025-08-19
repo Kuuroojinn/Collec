@@ -19,3 +19,24 @@
 | [Xbox 360](x360/x360_list.md)                  | [Xbox 360](x360/x360_info_games.md)                |
 | [ Xbox One / Xbox Series](xsx/xsx_list.md)     | [Xbox One / Xbox Series](xsx/xsx_info_games.md)    |
 
+| Nintendo Game Boy (Color) | Nintendo Game Boy Advance | Nintendo DS |
+| :---: | :---: | :---: |
+| 1 | 2 | 3 |
+
+
+| Nintendo 3DS | Nintendo Switch | Sega Master System |
+| :---: | :---: | :---: |
+| 4 | 5 | 6 |
+
+| Playstation | Playstation 2 | Playstation 3 |
+| :---: | :---: | :---: |
+| 7 | 8 | 9 |
+
+| Xbox | Xbox 360 | Xbox One / Series |
+| :---: | :---: | :---: |
+| 10 | 11 | 12 |
+
+| Playstation Vita | | |
+| :---: | :---: | :---: |
+| 13 | | |
+
