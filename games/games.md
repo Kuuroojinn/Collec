@@ -24,19 +24,19 @@
 | 1 | 2 | 3 |
 
 
-| Nintendo 3DS | Nintendo Switch | Sega Master System |
+| <img width="330" height="1">Nintendo 3DS<img width="330" height="1"> | <img width="330" height="1">Nintendo Switch<img width="330" height="1"> | <img width="330" height="1">Sega Master System<img width="330" height="1"> |
 | :---: | :---: | :---: |
 | 4 | 5 | 6 |
 
-| Playstation | Playstation 2 | Playstation 3 |
+| <img width="330" height="1">Playstation<img width="330" height="1"> | <img width="330" height="1">Playstation 2<img width="330" height="1"> | <img width="330" height="1">Playstation 3<img width="330" height="1"> |
 | :---: | :---: | :---: |
 | 7 | 8 | 9 |
 
-| Xbox | Xbox 360 | Xbox One / Series |
+| <img width="330" height="1">Xbox<img width="330" height="1"> | <img width="330" height="1">Xbox 360<img width="330" height="1"> | <img width="330" height="1">Xbox One / Series<img width="330" height="1"> |
 | :---: | :---: | :---: |
 | 10 | 11 | 12 |
 
-| Playstation Vita | | |
+| <img width="330" height="1">Playstation Vita<img width="330" height="1"> |<img width="330" height="1"><img width="330" height="1"> |<img width="330" height="1"><img width="330" height="1"> |
 | :---: | :---: | :---: |
 | 13 | | |
 
