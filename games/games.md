@@ -30,7 +30,7 @@
 
 | <img width="330" height="1">Playstation<img width="330" height="1"> | <img width="330" height="1">Playstation 2<img width="330" height="1"> | <img width="330" height="1">Playstation 3<img width="330" height="1"> |
 | :---: | :---: | :---: |
-| 7 | 8 | 9 |
+| ![PSX](https://consolemods.org/wiki/images/thumb/1/1b/PS1.png/200px-PS1.png)| 8 | 9 |
 
 | <img width="330" height="1">Xbox<img width="330" height="1"> | <img width="330" height="1">Xbox 360<img width="330" height="1"> | <img width="330" height="1">Xbox One / Series<img width="330" height="1"> |
 | :---: | :---: | :---: |
