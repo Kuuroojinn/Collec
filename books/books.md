@@ -1,6 +1,6 @@
 # List of Books
 
-- Mangas
+- [Mangas](mangas/mangas.md)
 	- Shonens
 	- Seinens
 - Comics
