@@ -21,7 +21,7 @@
 
 | <img width="330" height="1">Nintendo Game Boy (Color)<img width="330" height="1"> |<img width="330" height="1"> Nintendo Game Boy Advance<img width="330" height="1"> | <img width="330" height="1">Nintendo DS <img width="330" height="1">|
 | :---: | :---: | :---: |
-| [![GB](https://consolemods.org/wiki/images/thumb/b/b2/Game_Boy.png/200px-Game_Boy.png)](gb/gb.md) | 2 | 3 |
+| [![GB](https://consolemods.org/wiki/images/thumb/b/b2/Game_Boy.png/200px-Game_Boy.png)](gb/gb.md) | [![GBA](https://consolemods.org/wiki/images/thumb/1/15/Game_Boy_Advance.png/200px-Game_Boy_Advance.png)](gba/gba.md) | [![DS](https://consolemods.org/wiki/images/thumb/3/37/DS.png/200px-DS.png)](ds/ds.md) |
 
 
 | <img width="330" height="1">Nintendo 3DS<img width="330" height="1"> | <img width="330" height="1">Nintendo Switch<img width="330" height="1"> | <img width="330" height="1">Sega Master System<img width="330" height="1"> |
