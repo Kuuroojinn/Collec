@@ -28,7 +28,7 @@
 | :---: | :---: | :---: |
 | 4 | 5 | 6 |
 
-| <img width="330" height="1">Playstation<img width="330" height="1"> | <img width="330" height="1">Playstation 2<img width="330" height="1"> | <img width="330" height="1">Playstation 3<img width="330" height="1"> |
+| Playstation | Playstation 2 | Playstation 3 |
 | :---: | :---: | :---: |
 | [![PSX](https://consolemods.org/wiki/images/thumb/1/1b/PS1.png/200px-PS1.png)](psx/psx.md)| [![PS2](https://consolemods.org/wiki/images/thumb/4/45/PS2.png/200px-PS2.png)](psé/ps2.md) | [![PS3](https://consolemods.org/wiki/images/thumb/8/80/PS3.png/200px-PS3.png)](ps3/ps3.md) |
 
