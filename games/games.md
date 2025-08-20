@@ -26,7 +26,7 @@
 
 | <img width="330" height="1">Nintendo 3DS<img width="330" height="1"> | <img width="330" height="1">Nintendo Switch<img width="330" height="1"> | <img width="330" height="1">Sega Master System<img width="330" height="1"> |
 | :---: | :---: | :---: |
-| 4 | 5 | 6 |
+| [![3DS](https://consolemods.org/wiki/images/thumb/7/78/3DS.png/200px-3DS.png)](3ds/3ds.md) | [![Switch](https://consolemods.org/wiki/images/thumb/4/42/Nintendo_Switch.png/200px-Nintendo_Switch.png)](switch/switch.md) | [![SMS](https://consolemods.org/wiki/images/thumb/e/ea/SMS.png/200px-SMS.png)](sms/sms.md) |
 
 | <img width="330" height="1">Playstation<img width="330" height="1"> | <img width="330" height="1">Playstation 2<img width="330" height="1"> | <img width="330" height="1">Playstation 3<img width="330" height="1"> |
 | :---: | :---: | :---: |
