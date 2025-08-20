@@ -28,8 +28,6 @@
 |  [![PSX](https://consolemods.org/wiki/images/thumb/1/1b/PS1.png/200px-PS1.png)](psx/psx.md) | [![PS2](https://consolemods.org/wiki/images/thumb/4/45/PS2.png/200px-PS2.png)](psé/ps2.md) | [![PS3](https://consolemods.org/wiki/images/thumb/8/80/PS3.png/200px-PS3.png)](ps3/ps3.md) |
 | <img width="330" height="1">Xbox<img width="330" height="1"> | <img width="330" height="1">Xbox 360<img width="330" height="1"> | <img width="330" height="1">Xbox One / Series<img width="330" height="1"> |
 | 10 | 11 | 12 |
-
 | <img width="330" height="1">Playstation Vita<img width="330" height="1"> |<img width="330" height="1"><img width="330" height="1"> |<img width="330" height="1"><img width="330" height="1"> |
-| :---: | :---: | :---: |
 | 13 | | |
 
