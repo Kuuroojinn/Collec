@@ -27,7 +27,7 @@
 | <img width="330" height="1">Playstation<img width="330" height="1"> | <img width="330" height="1">Playstation 2<img width="330" height="1"> | <img width="330" height="1">Playstation 3<img width="330" height="1"> |
 |  [![PSX](https://consolemods.org/wiki/images/thumb/1/1b/PS1.png/200px-PS1.png)](psx/psx.md) | [![PS2](https://consolemods.org/wiki/images/thumb/4/45/PS2.png/200px-PS2.png)](psé/ps2.md) | [![PS3](https://consolemods.org/wiki/images/thumb/8/80/PS3.png/200px-PS3.png)](ps3/ps3.md) |
 | <img width="330" height="1">Xbox<img width="330" height="1"> | <img width="330" height="1">Xbox 360<img width="330" height="1"> | <img width="330" height="1">Xbox One / Series<img width="330" height="1"> |
-| [![Xbox](https://consolemods.org/wiki/images/thumb/d/d4/Xbox.png/200px-Xbox.png)[xbox/xbox.md) | [![x360](https://consolemods.org/wiki/images/thumb/9/9a/Xbox_360.png/200px-Xbox_360.png)](x360/x360.md) | [![xsx](https://consolemods.org/wiki/images/thumb/1/14/Xbox_One.png/200px-Xbox_One.png)](xsx/xsx.md) |
+| [![Xbox](https://consolemods.org/wiki/images/thumb/d/d4/Xbox.png/200px-Xbox.png)](xbox/xbox.md) | [![x360](https://consolemods.org/wiki/images/thumb/9/9a/Xbox_360.png/200px-Xbox_360.png)](x360/x360.md) | [![xsx](https://consolemods.org/wiki/images/thumb/1/14/Xbox_One.png/200px-Xbox_One.png)](xsx/xsx.md) |
 | <img width="330" height="1">Playstation Vita<img width="330" height="1"> |<img width="330" height="1"><img width="330" height="1"> |<img width="330" height="1"><img width="330" height="1"> |
 | [![vita](https://consolemods.org/wiki/images/thumb/b/bb/Vita_OLED.png/200px-Vita_OLED.png)](vita/vita.md) | | |
 
