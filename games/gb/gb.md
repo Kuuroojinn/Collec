@@ -1,4 +1,4 @@
-# List or all informations
+# List of all informations
 
 > *[Back](../games.md) to the menu*
 
