@@ -4,4 +4,3 @@
 
 | [Simple List](gb_list.md) | [Detailed List](gb_info_games.md) |
 | --- | --- |
-| <img width="330" height="1"> |<img width="330" height="1">|
