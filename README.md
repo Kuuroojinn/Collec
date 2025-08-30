@@ -13,7 +13,7 @@ A basic *list* in markdown, in order to save what I already bought
 | --- | --- |
 | [<img src="img/controller.png" width="100">](games/games.md)   | [<img src="img/books.png" width="100">](books/books.md) | 
 
-<! ---
+<! --
 
 - [Games](games/games.md)
 - [Books](books/books.md)
