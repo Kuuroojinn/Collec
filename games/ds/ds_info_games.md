@@ -6,7 +6,7 @@
 
 | Boxart | Title | Code | PEGI | State | Date of purchase | Score Metacritic | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://images.launchbox-app.com//bae0c2b4-5cd5-4b4c-9773-81778de1952e.jpg" height="100"> | [GTA : Chinatown Wars](https://fr.m.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars) | NTR-YGXP-EUR | | Game Only | | 93 | |
+| <img src="https://images.launchbox-app.com//bae0c2b4-5cd5-4b4c-9773-81778de1952e.jpg" height="100" width="102"> | [GTA : Chinatown Wars](https://fr.m.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars) | NTR-YGXP-EUR | | Game Only | | 93 | |
 | <img src="https://images.launchbox-app.com//7981126b-5373-43c7-8389-01353381734e.jpg" height="100"> | [Guitar Hero - On Tour](https://fr.m.wikipedia.org/wiki/Guitar_Hero:_On_Tour) | NTR-YGHX-EUR | | Game Only | | | With controller |
 | <img src="https://images.launchbox-app.com//7b993fa6-f2b7-4579-a9dc-5e8bcdeac90e.jpg" height="100"> | [Guitar Hero - On Tour : Decades](https://simple.m.wikipedia.org/wiki/Guitar_Hero_On_Tour:_Decades) | NTR-CGSX-EUR | | Game Only | | | With controller|
 | <img src="https://images.launchbox-app.com//469e2ef3-9250-4f82-89d7-c4b825259d1e.jpg" height="100"> | [Mario et Sonic aux JO d'hiver](https://fr.m.wikipedia.org/wiki/Mario_et_Sonic_aux_Jeux_olympiques_d%27hiver) | NTR-COLP-FRA | 3 | CIB | | 76 | |
