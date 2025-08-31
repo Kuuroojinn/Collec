@@ -4,4 +4,4 @@
 
 | <img width="430" height="1">[Simple List](ds_list.md)<img width="430" height="1"> | 
 | :---: |
-|<img width="430" height="1">**[Detailed List](ds_info_games.md)**<img width="430" height="1"> |
+|**[Detailed List](ds_info_games.md)** |
