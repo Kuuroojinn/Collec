@@ -1,4 +1,4 @@
-# List or all informations
+# Nintendo Game Boy (Color)
 
 > *[Back](../games.md) to the menu*
 
