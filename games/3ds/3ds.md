@@ -5,4 +5,4 @@
 
 | <img width="430" height="1">[Simple List](3ds_list.md)<img width="430" height="1"> | 
 | :---: |
-| <img width="430" height="1">**[Detailed List](3ds_info_games.md)**<img width="430" height="1"> |
+| **[Detailed List](3ds_info_games.md)** |
