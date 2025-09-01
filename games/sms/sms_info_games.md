@@ -5,4 +5,4 @@
 
 | Boxart | Title | Code | PEGI | State | Date of purchase | Score Metacritic | Description |  
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://images.launchbox-app.com//d8617c40-e3f8-4dc2-a0ba-e907e0346109.jpg" width="150"> | Sonic The Hedgehog | | | Game Only | | | |
+| <img src="https://images.launchbox-app.com//baa8e1b5-1c0a-4df0-8d7c-5016ee291dee.png" width="150"> | Sonic The Hedgehog | | | Game Only | | | |
