@@ -1,4 +1,4 @@
-# List or all informations
+# Nintendo Game Boy Advance
 
 > *[Back](../games.md) to the menu*
 
