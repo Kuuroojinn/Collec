@@ -5,4 +5,4 @@
 
 | Title |
 | --- |
-| Devil May Cry |
+| [Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) |
