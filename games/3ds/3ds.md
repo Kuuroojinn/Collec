@@ -1,4 +1,4 @@
-# List or all informations
+# Nintendo 3DS
 
 
 > *[Back](../games.md) to the menu*
