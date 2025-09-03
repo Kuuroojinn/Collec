@@ -20,4 +20,5 @@
 | <img src="https://images.launchbox-app.com//cfec3b53-0cd2-4019-93a1-4fe59f549d6c.jpg" width="150"> | [Pokemon Mystery Dungeon : Red Rescue Team](https://fr.m.wikipedia.org/wiki/Pok%C3%A9mon_Donjon_Myst%C3%A8re_:_%C3%89quipe_de_secours_rouge_et_%C3%89quipe_de_secours_bleue) | AGB-B24P-EUR | | Game Only | | | |
 | <img src="https://images.launchbox-app.com//c3b117f5-f12c-4c26-8ec4-76b3689725eb.jpg" width="150"> | [Rhythm Paradise](https://fr.m.wikipedia.org/wiki/Rhythm_Paradise) | NTR-YLZP-EUU | | CIB | | 83 | |
 | <img src="https://images.launchbox-app.com//1d128f78-3ef7-4ef1-a109-85e2a8cf72e8.jpg" width="150"> | [Scurge Hive](https://en.m.wikipedia.org/wiki/Scurge:_Hive) | NTR-AHVP-EUR | | Game Only | | 70 | |
+| <img src="https://images.launchbox-app.com//baa8e1b5-1c0a-4df0-8d7c-5016ee291dee.png" width="150"> | [Sonic The Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)) | | | Game Only | | | |
 | <img src="https://images.launchbox-app.com//c6f04319-dada-4444-96ad-888395001d0b.jpg" width="150">| [Taxi 3](https://fr.m.wikipedia.org/wiki/Taxi_3_(jeu_vid%C3%A9o)) | CGB-BXIF-FRA | | Game Only | | | |
