@@ -18,3 +18,4 @@
 | <img src="https://images.launchbox-app.com//22797948-dd8f-4dce-875a-5d1023a20a1d.jpg" width="150"> | [Pokemon Silver](https://fr.m.wikipedia.org/wiki/Pok%C3%A9mon_Or_et_Argent) | DMG-AAXJ-JPN | | Game Only | | | In Japanese |
 | <img src="https://images.launchbox-app.com//c3b117f5-f12c-4c26-8ec4-76b3689725eb.jpg" width="150"> | [Rhythm Paradise](https://fr.m.wikipedia.org/wiki/Rhythm_Paradise) | NTR-YLZP-EUU | | CIB | | 83 | |
 | <img src="https://images.launchbox-app.com//1d128f78-3ef7-4ef1-a109-85e2a8cf72e8.jpg" width="150"> | [Scurge Hive](https://en.m.wikipedia.org/wiki/Scurge:_Hive) | NTR-AHVP-EUR | | Game Only | | 70 | |
+| <img src="https://images.launchbox-app.com//c6f04319-dada-4444-96ad-888395001d0b.jpg" width="150">| [Taxi 3](https://fr.m.wikipedia.org/wiki/Taxi_3_(jeu_vid%C3%A9o)) | CGB-BXIF-FRA | | Game Only | | | |
