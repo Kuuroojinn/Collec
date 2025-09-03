@@ -1,4 +1,4 @@
-# List or all informations
+# Nintendo Switch
 
 
 > *[Back](../games.md) to the menu*
