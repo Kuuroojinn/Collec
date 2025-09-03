@@ -5,7 +5,15 @@
 
 | Title |
 | --- |
+| [Assassin's Creed](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_(jeu_vid%C3%A9o)) |
+| [Assassin's Creed II](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_II) |
+| [Assassin's Creed III](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_III) |
+| [Assassin's Creed Revelations](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_Revelations) |
 | [Asterix et Obelix : Paf! par Toutatis!](https://fr.m.wikipedia.org/wiki/Ast%C3%A9rix_et_Ob%C3%A9lix_:_Paf_!_Par_Toutatis_!) |
+| [Batman - Arkham Asylum](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Asylum) |
+| [Batman - Arkham City](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_City) |
+| [Batman - Arkham Origins](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Origins) |
+| [Battlefield Bad Company](https://fr.m.wikipedia.org/wiki/Battlefield:_Bad_Company) |
 | [Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) |
 | [GTA : Chinatown Wars](https://fr.m.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars) |
 | [Gran Turismo](https://en.wikipedia.org/wiki/Gran_Turismo_(1997_video_game)) |
