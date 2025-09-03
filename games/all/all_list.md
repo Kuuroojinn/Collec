@@ -12,6 +12,10 @@
 | [Mario et Sonic aux JO d'hiver](https://fr.m.wikipedia.org/wiki/Mario_et_Sonic_aux_Jeux_olympiques_d%27hiver) |
 | [New Super Mario Bros](https://mario.fandom.com/fr/wiki/New_Super_Mario_Bros.) |
 | [One Piece : Gigant Battle](https://fr.m.wikipedia.org/wiki/One_Piece:_Gigant_Battle!) |
+| [Pokemon Gold](https://fr.m.wikipedia.org/wiki/Pok%C3%A9mon_Or_et_Argent) |
+| [Pokemon Green](https://fr.m.wikipedia.org/wiki/Pok%C3%A9mon_Rouge_et_Bleu) |
+| [Pokemon Red](https://fr.m.wikipedia.org/wiki/Pok%C3%A9mon_Rouge_et_Bleu) |
+| [Pokemon Silver](https://fr.m.wikipedia.org/wiki/Pok%C3%A9mon_Or_et_Argent) |
 | [Rhythm Paradise](https://fr.m.wikipedia.org/wiki/Rhythm_Paradise) |
 | [Scurge Hive](https://en.m.wikipedia.org/wiki/Scurge:_Hive) |
 
