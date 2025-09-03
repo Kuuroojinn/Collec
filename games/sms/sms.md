@@ -1,4 +1,4 @@
-# List or all informations
+# Sega Master System
 
 
 > *[Back](../games.md) to the menu*
