@@ -5,5 +5,4 @@
 
 | Title |
 | --- |
-| Gran Turismo |
-
+| [Gran Turismo](https://en.wikipedia.org/wiki/Gran_Turismo_(1997_video_game)) |
