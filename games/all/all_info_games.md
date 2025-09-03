@@ -6,6 +6,7 @@
 | Boxart | Title                                         | Code        | PEGI  |  State  | Date of purchase | Score Metacritic | Description | 
 | --- | ---                                           | ---         | ---   | ---     | ---              | ---              | ---         |
 | <img src="https://images.launchbox-app.com//3084d9f1-0928-4f8b-8e39-a35d5f762d77.png" width="150"> | [Asterix et Obelix : Paf! par Toutatis!](https://fr.m.wikipedia.org/wiki/Ast%C3%A9rix_et_Ob%C3%A9lix_:_Paf_!_Par_Toutatis_!) | AGB-AOBP-FRA | | Game Only | | | |
+| <img src="https://images.launchbox-app.com//648eb043-2965-45f7-be8c-8df7f873cd9d.jpg" width="150"> | [Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) | SLES-50358 | 16 | CIB | | 94 | Edition Platinum |
 | <img src="https://images.launchbox-app.com//bae0c2b4-5cd5-4b4c-9773-81778de1952e.jpg" width="150"> | [GTA : Chinatown Wars](https://fr.m.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars) | NTR-YGXP-EUR | | Game Only | | 93 | |
 | <img src="https://images.launchbox-app.com//31a70461-da16-48c7-8ec2-aa1aa5d2850a.jpg" width="150"> | [Gran Turismo](https://en.wikipedia.org/wiki/Gran_Turismo_(1997_video_game)) | SCES-00984 | | CIB | | 96 | |
 | <img src="https://images.launchbox-app.com//7981126b-5373-43c7-8389-01353381734e.jpg" width="150"> | [Guitar Hero - On Tour](https://fr.m.wikipedia.org/wiki/Guitar_Hero:_On_Tour) | NTR-YGHX-EUR | | Game Only | | | With controller |
