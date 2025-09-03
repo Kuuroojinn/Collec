@@ -1,4 +1,4 @@
-# List or all informations
+# Playstation 2
 
 
 > *[Back](../games.md) to the menu*
