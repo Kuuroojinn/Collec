@@ -5,7 +5,15 @@
 
 | Boxart | Title                                         | Code        | PEGI  |  State  | Date of purchase | Score Metacritic | Description | 
 | --- | ---                                           | ---         | ---   | ---     | ---              | ---              | ---         |
+| <img src="https://images.launchbox-app.com//37e8aaee-ffdd-4803-89ac-676d99e81127.jpg" width="150"> | [ Assassin's Creed](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_(jeu_vid%C3%A9o)) | BLES-00158 | 18 | CIB | | 81 | Platinum edition |
+| <img src="https://images.launchbox-app.com//be63e191-f35b-4ed6-bc99-6120c6a797a6.jpg" width="150"> | [Assassin's Creed II](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_II) | BLES-00669 | 18 | CIB | | 91 | |
+| <img src="https://images.launchbox-app.com//5c97d6c9-a8c0-47ac-92bf-1f7c8c6ab43a.jpg" width="150"> | [Assassin's Creed III](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_III) | BLES-01667 | 18 | CIB | 2023-12-25 | 85 | |
+| <img src="https://images.launchbox-app.com//003c225e-7f0b-4d3b-b4a1-b6883bca96e1.jpg" width="150"> | [Assassin's Creed Revelations](https://fr.m.wikipedia.org/wiki/Assassin%27s_Creed_Revelations) | BLES-01466 | 18 | CIB | | 80 | English Version |
 | <img src="https://images.launchbox-app.com//3084d9f1-0928-4f8b-8e39-a35d5f762d77.png" width="150"> | [Asterix et Obelix : Paf! par Toutatis!](https://fr.m.wikipedia.org/wiki/Ast%C3%A9rix_et_Ob%C3%A9lix_:_Paf_!_Par_Toutatis_!) | AGB-AOBP-FRA | | Game Only | | | |
+| <img src="https://images.launchbox-app.com//a9fc175a-2121-433e-9f20-11d096913615.jpg" width="150"> | [Batman - Arkham Asylum](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Asylum) | BLES-00827/P | 16 | CIB | | 91 | Edition Game of the year and Platinum |
+| <img src="https://images.launchbox-app.com//92d960f9-0f81-4ebe-b809-2f5a6cc9b9e3.png" width="150"> | [Batman - Arkham City](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_City) | BLES-00926 | 16 | CIB | | 96 | |
+| <img src="https://images.launchbox-app.com//57c133ba-52da-4401-ba9c-aef2c8c248eb.jpg" width="150"> | [Batman - Arkham Origins](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Origins) | BLES-01784 | 16 | CIB | | 76 | Jaquette Abimée |
+| <img src="https://images.launchbox-app.com//ed335ae9-0f33-4223-a8e2-53a79e61cb0d.jpg" width="150"> | [Battlefield Bad Company](https://fr.m.wikipedia.org/wiki/Battlefield:_Bad_Company) | BLES-00259 | 16 | CIB | | 84 | Edition Platinum |
 | <img src="https://images.launchbox-app.com//648eb043-2965-45f7-be8c-8df7f873cd9d.jpg" width="150"> | [Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) | SLES-50358 | 16 | CIB | | 94 | Edition Platinum |
 | <img src="https://images.launchbox-app.com//bae0c2b4-5cd5-4b4c-9773-81778de1952e.jpg" width="150"> | [GTA : Chinatown Wars](https://fr.m.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars) | NTR-YGXP-EUR | | Game Only | | 93 | |
 | <img src="https://images.launchbox-app.com//31a70461-da16-48c7-8ec2-aa1aa5d2850a.jpg" width="150"> | [Gran Turismo](https://en.wikipedia.org/wiki/Gran_Turismo_(1997_video_game)) | SCES-00984 | | CIB | | 96 | |
