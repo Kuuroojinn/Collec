@@ -1,4 +1,4 @@
-# List or all informations
+# Xbox One / Xbox Series
 
 
 > *[Back](../games.md) to the menu*
