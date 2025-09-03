@@ -20,4 +20,5 @@
 | [Pokemon Mystery Dungeon : Red Rescue Team](https://fr.m.wikipedia.org/wiki/Pok%C3%A9mon_Donjon_Myst%C3%A8re_:_%C3%89quipe_de_secours_rouge_et_%C3%89quipe_de_secours_bleue) |
 | [Rhythm Paradise](https://fr.m.wikipedia.org/wiki/Rhythm_Paradise) |
 | [Scurge Hive](https://en.m.wikipedia.org/wiki/Scurge:_Hive) |
+| [Sonic The Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)) |
 | [Taxi 3](https://fr.m.wikipedia.org/wiki/Taxi_3_(jeu_vid%C3%A9o)) |
