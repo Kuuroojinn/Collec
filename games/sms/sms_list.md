@@ -5,4 +5,4 @@
 
 | Title |
 | --- |
-| Sonic The Hedgehog |
+| [Sonic The Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)) |
