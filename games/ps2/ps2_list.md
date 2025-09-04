@@ -6,3 +6,4 @@
 | Title |
 | --- |
 | [Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) |
+| [Tom Clancy's Splinter Cell : Pandora Tomorrow](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Pandora_Tomorrow) |
