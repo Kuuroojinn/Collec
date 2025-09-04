@@ -32,3 +32,4 @@
 | <img src="https://images.launchbox-app.com//1d128f78-3ef7-4ef1-a109-85e2a8cf72e8.jpg" width="150"> | [Scurge Hive](https://en.m.wikipedia.org/wiki/Scurge:_Hive) | NTR-AHVP-EUR | | Game Only | | 70 | |
 | <img src="https://images.launchbox-app.com//baa8e1b5-1c0a-4df0-8d7c-5016ee291dee.png" width="150"> | [Sonic The Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)) | | | Game Only | | | |
 | <img src="https://images.launchbox-app.com//c6f04319-dada-4444-96ad-888395001d0b.jpg" width="150">| [Taxi 3](https://fr.m.wikipedia.org/wiki/Taxi_3_(jeu_vid%C3%A9o)) | CGB-BXIF-FRA | | Game Only | | | |
+| <img src="https://images.launchbox-app.com//7339814e-e98a-4274-8929-a3089c832f30.jpg" width="150"> | [Tom Clancy's Splinter Cell : Pandora Tomorrow](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Pandora_Tomorrow) | SLES-52149 | 12 | CIB | | 87 | |
