@@ -32,3 +32,4 @@
 | [Scurge Hive](https://en.m.wikipedia.org/wiki/Scurge:_Hive) |
 | [Sonic The Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)) |
 | [Taxi 3](https://fr.m.wikipedia.org/wiki/Taxi_3_(jeu_vid%C3%A9o)) |
+| [Tom Clancy's Splinter Cell : Pandora Tomorrow](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Pandora_Tomorrow) |
