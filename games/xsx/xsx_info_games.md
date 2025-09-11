@@ -12,3 +12,4 @@
 | <img src="https://images.launchbox-app.com//6c89bc94-e24d-4fee-873c-05907f66c6cb.jpg" width="150"> | [Far Cry 5](https://en.wikipedia.org/wiki/Far_Cry_5) | 059662 | 18 | CIB | | 82 | |
 | <img src="https://images.launchbox-app.com//10bab74a-6395-46a5-915e-a8c73104fc45.jpg" width="150"> | [Mirror's Edge Catalyst](https://en.wikipedia.org/wiki/Mirror%27s_Edge_Catalyst) | 055353 | 16 | CIB | | 72 | |
 | <img src="https://images.launchbox-app.com//b48aef5f-1331-4fb8-9fe6-67d4aa34a1cd.jpg" width="150"> | [The Crew 2](https://fr.wikipedia.org/wiki/The_Crew_2) | | 12 | CIB | | 69 | Deluxe Edition |
+| <img src="https://images.launchbox-app.com//855b7410-be98-42ca-bd47-e3eac778e4f6.jpg" width="150"> | [Watch Dogs Legion](https://en.wikipedia.org/wiki/Watch_Dogs:_Legion) | 106460 | 18 | CIB | | 76 | Limited Edition |
