@@ -10,3 +10,4 @@
 | [Far Cry 5](https://en.wikipedia.org/wiki/Far_Cry_5) |
 | [Mirror's Edge Catalyst](https://en.wikipedia.org/wiki/Mirror%27s_Edge_Catalyst) |
 | [The Crew 2](https://fr.wikipedia.org/wiki/The_Crew_2) |
+| [Watch Dogs Legion](https://en.wikipedia.org/wiki/Watch_Dogs:_Legion) |
