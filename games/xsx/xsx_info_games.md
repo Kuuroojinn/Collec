@@ -17,4 +17,5 @@
 | <img src="https://images.launchbox-app.com//421d56b1-cd04-48b2-83b0-1fdeccdefc36.jpg" width="150"> | [Red Dead Redemption II](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) | 103730 | 18 | CIB | | 97 | |
 | <img src="https://images.launchbox-app.com//711ae3d4-584e-44a4-b159-87e0644461a1.jpg" width="150"> | [Resident Evil 7: Biohazard](https://en.wikipedia.org/wiki/Resident_Evil_7:_Biohazard) | 056412 | 18 | CIB | | 86 | |
 | <img src="https://images.launchbox-app.com//b48aef5f-1331-4fb8-9fe6-67d4aa34a1cd.jpg" width="150"> | [The Crew 2](https://fr.wikipedia.org/wiki/The_Crew_2) | | 12 | CIB | | 69 | Deluxe Edition |
+| <img src="https://images.launchbox-app.com//5aa3c1d0-8e6a-46c2-9821-099b394b07b8.jpg" width="150"> | [The Witcher III: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) | 042194 | 18 | CIB | | 91 | Avec Pochette Cartonée |
 | <img src="https://images.launchbox-app.com//855b7410-be98-42ca-bd47-e3eac778e4f6.jpg" width="150"> | [Watch Dogs Legion](https://en.wikipedia.org/wiki/Watch_Dogs:_Legion) | 106460 | 18 | CIB | | 76 | Limited Edition |
