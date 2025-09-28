@@ -15,4 +15,5 @@
 | [Red Dead Redemption II](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) |
 | [Resident Evil 7 Biohazard](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) |
 | [The Crew 2](https://fr.wikipedia.org/wiki/The_Crew_2) |
+| [The Witcher III: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) |
 | [Watch Dogs Legion](https://en.wikipedia.org/wiki/Watch_Dogs:_Legion) |
