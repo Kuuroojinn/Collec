@@ -13,3 +13,4 @@
 | [Batman - Arkham City](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_City) |
 | [Batman - Arkham Origins](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Origins) |
 | [Battlefield Bad Company](https://fr.m.wikipedia.org/wiki/Battlefield:_Bad_Company) |
+| [Blur](https://en.wikipedia.org/wiki/Blur_(video_game)) |
