@@ -13,3 +13,4 @@
 | <img src="https://images.launchbox-app.com//92d960f9-0f81-4ebe-b809-2f5a6cc9b9e3.png" width="150"> | [Batman - Arkham City](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_City) | BLES-00926 | 16 | CIB | | 96 | |
 | <img src="https://images.launchbox-app.com//57c133ba-52da-4401-ba9c-aef2c8c248eb.jpg" width="150"> | [Batman - Arkham Origins](https://fr.m.wikipedia.org/wiki/Batman:_Arkham_Origins) | BLES-01784 | 16 | CIB | | 76 | Jaquette Abimée |
 | <img src="https://images.launchbox-app.com//ed335ae9-0f33-4223-a8e2-53a79e61cb0d.jpg" width="150"> | [Battlefield Bad Company](https://fr.m.wikipedia.org/wiki/Battlefield:_Bad_Company) | BLES-00259 | 16 | CIB | | 84 | Edition Platinum |
+| <img src="https://images.launchbox-app.com//8a99299c-aad6-4723-b68f-4e17a33a4e78.jpg" width="150"> | [Blur](https://en.wikipedia.org/wiki/Blur_(video_game)) | BLES-00759 | 7 | CIB | | 81 | |
