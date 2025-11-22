@@ -1,12 +1,6 @@
 
-// Example JSON data
-const jsonData = {
-  "data": [
-	  { "name": "Mirror's Edge", "platform": "PS3", "state": "CIB", "code": "uy"},
-	  { "name": "Blur", "platform": "PS3", "code": "kl", "state":"CIB" },
-	  { "name": "New Super Mario Bros", "platform": "DS","code": "ii", "state":  "CIB"}
-  ]
-};
+
+let data = fetch("data.json");
 // Function to generate the table
 function generateTable(data) {
   if (!data || data.length === 0) return "No data available.";
