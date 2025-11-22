@@ -1,5 +1,5 @@
 const fs = require('fs');
-const json_data = require('data.json');
+const json_data = require('https://kuuroojinn.github.io/Collec/data.json');
 
 fs.readFile(json_data, 'utf8', function (err, data) {
   try {
