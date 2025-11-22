@@ -47,9 +47,9 @@ function generateTable(data) {
   return table;
 }
 // Render the table
-get_json_data();
+fetch('https://kuuroojinn.github.io/Collec/data.json').then((response) => response.json()).then((data) => console.log(data));
 const container = document.getElementById('table-container');
-const table = generateTable(data);
+const table = generateTable(fetch('https://kuuroojinn.github.io/Collec/data.json').then((response) => response.json()).then((data) => console.log(data)));
 if (table) container.appendChild(table);
 
 
