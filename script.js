@@ -1,6 +1,6 @@
 function get_json_data(){
             // Relative URL of external json file
-            var json_url = 'https://kuuroojinn.github.io/Collec/data.json';
+            var json_url = 'https://raw.githubusercontent.com/Kuuroojinn/Collec/refs/heads/main/data.json';
 
             //Build the XMLHttpRequest (aka AJAX Request)
             xmlhttp = new XMLHttpRequest();
