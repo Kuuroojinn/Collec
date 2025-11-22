@@ -1,12 +1,9 @@
-const fs = require('fs');
-const json_data = require('https://kuuroojinn.github.io/Collec/data.json');
-
-fs.readFile(json_data, 'utf8', function (err, data) {
-  try {
-    data = JSON.parse(data)
-  } catch (e) {
-    // Catch error in case file doesn't exist or isn't valid JSON
-  }
+fetch('http://jsonplaceholder.typicode.com/users', { 
+  method: 'GET'
+})
+.then(function(response) { return response.json(); })
+.then(function(json) {
+  // use the json
 });
 // Function to generate the table
 function generateTable(data) {
