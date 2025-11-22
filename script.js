@@ -1,10 +1,13 @@
+const fs = require('fs');
+const json_data = require('data.json');
 
-
-useEffect(() => {
-	fetch('data.json')
-	.then(response => response.json())
-	.then((json) => setData(json))
-}, [])
+fs.readFile(json_data, 'utf8', function (err, data) {
+  try {
+    data = JSON.parse(data)
+  } catch (e) {
+    // Catch error in case file doesn't exist or isn't valid JSON
+  }
+});
 // Function to generate the table
 function generateTable(data) {
   if (!data || data.length === 0) return "No data available.";
