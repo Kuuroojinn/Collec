@@ -2,9 +2,8 @@
 // Example JSON data
 const jsonData = {
   "data": [
-    { "name": "Alice", "age": 25, "city": "Paris" },
-    { "name": "Bob", "age": 30, "city": "London" },
-    { "name": "Charlie", "age": 35, "city": "New York" }
+	  { "name": "Mirror's Edge", "platform": "PS3", "state": "CIB", "code": "uy"},
+	  { "name": "New Super Mario Bros", "platform": "DS","code": "ii", "state":  "CIB"}
   ]
 };
 // Function to generate the table
@@ -24,7 +23,7 @@ function generateTable(data) {
   table.appendChild(headerRow);
   // Generate table rows
   data.forEach(item => {
-	  if (item["age"]=="30") {
+	  if (item["platform"]=="PS3") {
     const row = document.createElement('tr');
     keys.forEach(key => {
       const td = document.createElement('td');
