@@ -8,11 +8,7 @@ function get_json_data(){
                 if (this.readyState == 4 && this.status == 200) {//when a good response is given do this
 
                     var data = JSON.parse(this.responseText); // convert the response to a json object
-			const container = document.getElementById('table-container');
-			const table = generateTable(data);
-			if (table) container.appendChild(table);
-
-                }
+			                }
             }
             //set the request destination and type
             xmlhttp.open("POST", json_url, true);
@@ -52,4 +48,8 @@ function generateTable(data) {
 }
 // Render the table
 get_json_data();
+const container = document.getElementById('table-container');
+const table = generateTable(data);
+if (table) container.appendChild(table);
+
 
