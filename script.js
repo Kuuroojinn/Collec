@@ -3,6 +3,7 @@
 const jsonData = {
   "data": [
 	  { "name": "Mirror's Edge", "platform": "PS3", "state": "CIB", "code": "uy"},
+	  { "name": "Blur", "platform": "PS3", "code": "kl", "state":"CIB" },
 	  { "name": "New Super Mario Bros", "platform": "DS","code": "ii", "state":  "CIB"}
   ]
 };
