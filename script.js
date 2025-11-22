@@ -36,6 +36,6 @@ function generateTable(data) {
 }
 // Render the table
 const container = document.getElementById('table-container');
-const table = generateTable(jsonData.data);
+const table = generateTable(data);
 if (table) container.appendChild(table);
 
