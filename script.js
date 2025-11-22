@@ -1,6 +1,10 @@
 
 
-let data = fetch("data.json");
+useEffect(() => {
+	fetch('data.json')
+	.then(response => response.json())
+	.then((json) => setData(json))
+}, []);
 // Function to generate the table
 function generateTable(data) {
   if (!data || data.length === 0) return "No data available.";
