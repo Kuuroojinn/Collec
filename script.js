@@ -32,7 +32,7 @@ function generateTable(data) {
       row.appendChild(td);
     });
     table.appendChild(row);
-	  }
+	  };
   });
   return table;
 }
