@@ -24,7 +24,7 @@ function generateTable(data) {
   table.appendChild(headerRow);
   // Generate table rows
   data.forEach(item => {
-	  if (age=="30") {
+	  if (item["age"]=="30") {
     const row = document.createElement('tr');
     keys.forEach(key => {
       const td = document.createElement('td');
