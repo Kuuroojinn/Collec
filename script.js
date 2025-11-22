@@ -1,4 +1,4 @@
-let data = fetch('https://kuuroojinn.github.io/Collec/data.json', { 
+let data = await fetch('https://kuuroojinn.github.io/Collec/data.json', { 
   method: 'GET'
 })
 .then(function(response) { return response.json(); })
