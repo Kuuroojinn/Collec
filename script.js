@@ -48,6 +48,7 @@ function generateTable(data) {
   return table;
 }
 // Render the table
+get_json_data();
 const container = document.getElementById('table-container');
 const table = generateTable(data);
 if (table) container.appendChild(table);
