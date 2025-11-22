@@ -1,4 +1,4 @@
-fetch('http://jsonplaceholder.typicode.com/users', { 
+fetch('https://kuuroojinn.github.io/Collec/data.json', { 
   method: 'GET'
 })
 .then(function(response) { return response.json(); })
