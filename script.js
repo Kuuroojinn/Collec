@@ -37,7 +37,7 @@ async function getData() {
 		if (!response.ok) {
 			console.log("Nope");
 		}
-		const result = await response.json();
+		const result = await response.json().sort();
 		const container = document.getElementById('table-container');
 		const table = generateTable(result);
 		if (table) container.appendChild(table);
