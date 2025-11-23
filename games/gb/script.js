@@ -16,7 +16,7 @@ function generateTable(data) {
   table.appendChild(headerRow);
   // Generate table rows
   data.forEach(item => {
-	  if (item["Platform"]=="GB" || item["Platform"}=="GBC") {
+	  if (item["Platform"]=="GB" || item["Platform"]=="GBC") {
     const row = document.createElement('tr');
     keys.forEach(key => {
       const td = document.createElement('td');
