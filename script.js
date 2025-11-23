@@ -39,7 +39,7 @@ async function getData() {
 		}
 		const result = await response.json();
 		result = result.sort((a,b) => {
-			if (a.Title < b.Title) {
+			if (a."Title" < b."Title") {
 				return -1;
 			}
 		});
