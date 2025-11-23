@@ -7,7 +7,7 @@ function generateTable(data) {
   
   // Generate table headers
   const headerRow = document.createElement('tr');
-  const keys = Object.keys(data[0]); // Get keys from the first object
+  const keys = Object.keys(data[1]); // Get keys from the first object 0 instead of 1
   keys.forEach(key => {
     const th = document.createElement('th');
     th.textContent = key.charAt(0).toUpperCase() + key.slice(1); // Capitalize header
