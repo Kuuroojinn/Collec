@@ -30,11 +30,20 @@ function generateTable(data) {
 }
 // Render the table
 //fetch('https://kuuroojinn.github.io/Collec/data.json').then((response) => response.json()).then((data) => console.log(data));
-const response = await fetch("https://kuuroojinn.github.io/Collec/data.json");
-if (!response.ok) {
-	console.log("Nope");
+async function getData() {
+	const url = "https://kuuroojinn.github.io/Collec/data.json";
+	try {
+		const response = await fetch(url);
+		if (!response.ok) {
+			console.log("Nope");
+		}
+		const result = await response.json();
+		return result;
+	} catch (error) {
+		console.log("Nope x2");
+	}
 }
-const data = await response.json();
+const data = getData();
 const container = document.getElementById('table-container');
 const table = generateTable(data);
 if (table) container.appendChild(table);
