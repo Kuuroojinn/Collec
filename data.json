@@ -20,13 +20,23 @@
 		  "Description": ""
 	  },
 	  {
-		  "Title": "Aa",
+		  "Title": "Dragon Ball Xenoverse",
 		  "Platform": "PS3",
-		  "Code": "BLES-333",
-		  "PEGI": 3,
+		  "Code": "BLES-02096/E",
+		  "PEGI": 12,
 		  "State": "CIB",
 		  "Date of Purchase": "",
-		  "Metacritic Score": 18,
+		  "Metacritic Score": "",
+		  "Description": "Essentials Edition"
+	  },
+	  {
+		  "Title": "Blur",
+		  "Platform": "PS3",
+		  "Code": "BLES-00759",
+		  "PEGI": 7,
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": 81,
 		  "Description": ""
 	  }
 ]
