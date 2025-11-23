@@ -1,5 +1,22 @@
 [
-	  { "name": "Mirror's Edge", "platform": "PS3", "state": "CIB", "code": "uy"},
-	  { "name": "Blur", "platform": "PS3", "code": "kl", "state":"CIB" },
-	  { "name": "New Super Mario Bros", "platform": "DS","code": "ii", "state":  "CIB"}
+	  {
+		  "Title": "Assassin's Creed",
+		  "Platform": "PS3",
+		  "Code": "BLES-00158",
+		  "PEGI": 18,
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": 81,
+		  "Description": "Platinum Edition"
+	  },
+	  {
+		  "Title": "New Super Mario Bros",
+		  "Platform": "NDS",
+		  "Code": "NTR-A2DP-EUR",
+		  "PEGI": 3,
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": 89,
+		  "Description": ""
+	  }
 ]
