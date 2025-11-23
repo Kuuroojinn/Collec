@@ -7,7 +7,7 @@ function generateTable(data) {
   
   // Generate table headers
   const headerRow = document.createElement('tr');
-  const keys = Object.keys(data[1]); // Get keys from the first object 0 instead of 1
+  const keys = Object.keys(data[0]); // Get keys from the first object
   keys.forEach(key => {
     const th = document.createElement('th');
     th.textContent = key.charAt(0).toUpperCase() + key.slice(1); // Capitalize header
@@ -38,14 +38,18 @@ async function getData() {
 			console.log("Nope");
 		}
 		const result = await response.json();
-		return result;
+		const container = document.getElementById('table-container');
+		const table = generateTable(data);
+		if (table) container.appendChild(table);
+
+
 	} catch (error) {
 		console.log("Nope x2");
 	}
 }
-const data = getData();
-const container = document.getElementById('table-container');
-const table = generateTable(data);
-if (table) container.appendChild(table);
+getData();
+//const container = document.getElementById('table-container');
+//const table = generateTable(data);
+//if (table) container.appendChild(table);
 
 
