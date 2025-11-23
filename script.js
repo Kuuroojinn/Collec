@@ -41,10 +41,11 @@ async function getData() {
 		const container = document.getElementById('table-container');
 		const table = generateTable(data);
 		if (table) container.appendChild(table);
+		console.log(result);
 
 
 	} catch (error) {
-		console.log("Nope x2");
+		console.error(error.message);
 	}
 }
 getData();
