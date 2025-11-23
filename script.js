@@ -1,22 +1,4 @@
-function get_json_data(){
-            // Relative URL of external json file
-            var json_url = 'https://raw.githubusercontent.com/Kuuroojinn/Collec/refs/heads/main/data.json';
 
-            //Build the XMLHttpRequest (aka AJAX Request)
-            xmlhttp = new XMLHttpRequest();
-            xmlhttp.onreadystatechange = function() { 
-                if (this.readyState == 4 && this.status == 200) {//when a good response is given do this
-
-                    var data = JSON.parse(this.responseText); // convert the response to a json object
-			                }
-            }
-            //set the request destination and type
-            xmlhttp.open("POST", json_url, true);
-            //set required headers for the request
-            xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-            // send the request
-            xmlhttp.send(); // when the request completes it will execute the code in onreadystatechange section
-        }
 // Function to generate the table
 function generateTable(data) {
   if (!data || data.length === 0) return "No data available.";
@@ -47,9 +29,14 @@ function generateTable(data) {
   return table;
 }
 // Render the table
-fetch('https://kuuroojinn.github.io/Collec/data.json').then((response) => response.json()).then((data) => console.log(data));
+//fetch('https://kuuroojinn.github.io/Collec/data.json').then((response) => response.json()).then((data) => console.log(data));
+const response = await fetch("https://kuuroojinn.github.io/Collec/data.json");
+if (!response.ok) {
+	console.log("Nope");
+}
+const data = await response.json();
 const container = document.getElementById('table-container');
-const table = generateTable(fetch('https://kuuroojinn.github.io/Collec/data.json').then((response) => response.json()).then((data) => console.log(data)));
+const table = generateTable(data);
 if (table) container.appendChild(table);
 
 
