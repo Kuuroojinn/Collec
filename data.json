@@ -38,5 +38,125 @@
 		  "Date of Purchase": "",
 		  "Metacritic Score": 81,
 		  "Description": ""
+	  },
+	  {
+		  "Title": "Pokemon Gold",
+		  "Platform": "GBC",
+		  "Code": "DMG-AAUJ-JPN",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": "In Japanese"
+	  },
+	  {
+		  "Title": "Pokemon Mystery Dungeon: Red Rescue Team",
+		  "Platform": "GBA",
+		  "Code": "AGB-B24P-EUR",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "",
+		  "Platform": "",
+		  "Code": "",
+		  "PEGI": "",
+		  "State": "",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Lego Batman 3 - Au dela de Gotham",
+		  "Platform": "3DS",
+		  "Code": "LNA-CTR-EUY",
+		  "PEGI": "7",
+		  "State": "CIB",
+		  "Date of Purchase": "2023-12-25",
+		  "Metacritic Score": "",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "My Hero One's Justice",
+		  "Platform": "Switch",
+		  "Code": "HAC-P-AL72B",
+		  "PEGI": "12",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "70",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Sonic The Hedgehog",
+		  "Platform": "SMS",
+		  "Code": "",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Gran Turismo",
+		  "Platform": "PSX",
+		  "Code": "SCES-00984",
+		  "PEGI": "",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "96",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Devil May Cry",
+		  "Platform": "PS2",
+		  "Code": "SLES-50358",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "94",
+		  "Description": "Platinum Edition"
+	  },
+	  {
+		  "Title": "Fable : The lost chapters",
+		  "Platform": "Xbox",
+		  "Code": "",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": "Best of Classic Edition"
+	  },
+	  {
+		  "Title": "Pure + Lego Batman",
+		  "Platform": "Xbox 360",
+		  "Code": "",
+		  "PEGI": "7",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": "Promo Bundle"
+	  },
+	  {
+		  "Title": "Borderlands 3",
+		  "Platform": "Xbox One",
+		  "Code": "105310",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "82",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Borderlands 2",
+		  "Platform": "PS Vita",
+		  "Code": "PCSF-00570",
+		  "PEGI": "18",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "64",
+		  "Description": ""
 	  }
 ]
