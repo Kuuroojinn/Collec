@@ -238,6 +238,126 @@
 		  "Date of Purchase": "",
 		  "Metacritic Score": "83",
 		  "Description": ""
+	  },
+	  {
+		  "Title": "Burnout Paradise",
+		  "Platform": "PS3",
+		  "Code": "BLES-00074",
+		  "PEGI": "3",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "87",
+		  "Description": "Platinum Edition"
+	  },
+	  {
+		  "Title": "Call Of Duty 4 - Modern Warfare",
+		  "Platform": "PS3",
+		  "Code": "BLES-00154",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "94",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Call Of Duty Modern Warfare 2",
+		  "Platform": "PS3",
+		  "Code": "BLES-00684",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "94",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Call Of Duty Modern Warfare 3",
+		  "Platform": "PS3",
+		  "Code": "BLES-01429",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "88",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "DMC Devil May Cry",
+		  "Platform": "PS3",
+		  "Code": "BLES-01698",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "85",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Colin McRae DIRT",
+		  "Platform": "PS3",
+		  "Code": "BLES-00095",
+		  "PEGI": "12",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "84",
+		  "Description": "Platinum Edition"
+	  },
+	  {
+		  "Title": "Dirt Showdown",
+		  "Platform": "PS3",
+		  "Code": "BLES-01578",
+		  "PEGI": "7",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "75",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Fallout 3 - GOTY Edition",
+		  "Platform": "PS3",
+		  "Code": "BLES-00738/E",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "90",
+		  "Description": "Essentials Edition"
+	  },
+	  {
+		  "Title": "Farcry 3",
+		  "Platform": "PS3",
+		  "Code": "BLES-01137",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "90",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "God of War III",
+		  "Platform": "PS3",
+		  "Code": "BCES-00510",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "92",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Final Fantasy XIII",
+		  "Platform": "PS3",
+		  "Code": "BLES-00783",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "83",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Final Fantast XIII-2",
+		  "Platform": "PS3",
+		  "Code": "BLES-01269",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "79",
+		  "Description": ""
 	  }
 
 ]
