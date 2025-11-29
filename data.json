@@ -228,6 +228,16 @@
 		  "Date of Purchase": "",
 		  "Metacritic Score": "88",
 		  "Description": "Platinum Edition"
+	  },
+	  {
+		  "Title": "Borderlands - GOTY Edition",
+		  "Platform": "PS3",
+		  "Code": "BLES-00697",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "83",
+		  "Description": ""
 	  }
 
 ]
