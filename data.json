@@ -158,5 +158,76 @@
 		  "Date of Purchase": "",
 		  "Metacritic Score": "64",
 		  "Description": ""
+	  },
+	  {
+		  "Title": "Assassin's Creed II",
+		  "Platform": "PS3",
+		  "Code": "BLES-00669",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "91",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Assassin's Creed III",
+		  "Platform": "PS3",
+		  "Code": "BLES-01667",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "85",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Assassin's Creed Revelations",
+		  "Platform": "PS3",
+		  "Code": "BLES-01466",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "80",
+		  "Description": "With soundtrack"
+	  },
+	  {
+		  "Title": "Batman Arkham Asylum - GOTY Edition",
+		  "Platform": "PS3",
+		  "Code": "BLES-00827/P",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "91",
+		  "Description": "Platinum Edition"
+	  },
+	  {
+		  "Title": "Batman Arkham City",
+		  "Platform": "PS3",
+		  "Code": "BLES-00926",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "96",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Batman Arkham Origins",
+		  "Platform": "PS3",
+		  "Code": "BLES-01784",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "76",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Battlefield Bad Company",
+		  "Platform": "PS3",
+		  "Code": "BLES-00259",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "88",
+		  "Description": "Platinum Edition"
 	  }
+
 ]
