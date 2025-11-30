@@ -760,6 +760,296 @@
 		  "Description": ""
 	  },
 	  {
+		  "Title": "GTA - Chinatown Wars",
+		  "Platform": "NDS",
+		  "Code": "NTR-YGXP-EUR",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "93",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Guitar Hero - On Tour",
+		  "Platform": "NDS",
+		  "Code": "NTR-YGHX-EUR",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Guitar Hero - On Tour : Decades",
+		  "Platform": "NDS",
+		  "Code": "NTR-CGSX-EUR",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Mario & Sonic aux JO d'hiver",
+		  "Platform": "NDS",
+		  "Code": "NTR-COLP-FRA",
+		  "PEGI": "3",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "76",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "One Piece - Gigant Battle",
+		  "Platform": "NDS",
+		  "Code": "NTR-BOJF-FRA",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Rhythm Paradise",
+		  "Platform": "NDS",
+		  "Code": "NTR-YLZP-EUR",
+		  "PEGI": "3",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "83",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Scurge Hive",
+		  "Platform": "NDS",
+		  "Code": "NTR-AHVP-EUR",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "70",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Pokemon Silver",
+		  "Platform": "GBC",
+		  "Code": "DMG-AAXJ-JPN",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": "In Japanese"
+	  },
+	  {
+		  "Title": "Pokemon Green",
+		  "Platform": "GB",
+		  "Code": "DMG-APBJ-JPN",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": "In Japanese"
+	  },
+	  {
+		  "Title": "Pokemon Red",
+		  "Platform": "GB",
+		  "Code": "DMG-APAJ-JPN",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": "In Japanese"
+	  },
+	  {
+		  "Title": "Taxi 3",
+		  "Platform": "GBC",
+		  "Code": "CGB-BXIF-FRA",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Asterix et Obelix : Paf! par Toutatis!",
+		  "Platform": "GBA",
+		  "Code": "AGB-AOBP-FRA",
+		  "PEGI": "",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Pokemon - Let's Go Pikachu",
+		  "Platform": "Switch",
+		  "Code": "HAC-P-AL72B",
+		  "PEGI": "7",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "79",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Super Smash Bros Ultimate",
+		  "Platform": "Switch",
+		  "Code": "HAC-P-AAABA",
+		  "PEGI": "12",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "93",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Cyberpunk 2077",
+		  "Platform": "Xbox One",
+		  "Code": "",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "87",
+		  "Description": "Day One Edition"
+	  },
+	  {
+		  "Title": "Devil May Cry",
+		  "Platform": "Xbox One",
+		  "Code": "102708",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "87",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Far Cry 5",
+		  "Platform": "Xbox One",
+		  "Code": "059662",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "82",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Jojo's Bizarre Adventure : All Star Battle R",
+		  "Platform": "Xbox Series",
+		  "Code": "202842",
+		  "PEGI": "12",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "75",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Mirror's Edge Catalyst",
+		  "Platform": "Xbox One",
+		  "Code": "055353",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "72",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Mortal Kombat 1",
+		  "Platform": "Xbox Series",
+		  "Code": "205870",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "84",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Red Dead Redemption II",
+		  "Platform": "Xbox One",
+		  "Code": "103730",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "97",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Resident Evil 7 - BioHazard",
+		  "Platform": "Xbox One",
+		  "Code": "056412",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "86",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "The Crew 2",
+		  "Platform": "Xbox One",
+		  "Code": "",
+		  "PEGI": "12",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "69",
+		  "Description": "Deluxe Edition"
+	  },
+	  {
+		  "Title": "The Witcher III - Wild Hunt",
+		  "Platform": "Xbox One",
+		  "Code": "042194",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "91",
+		  "Description": "With cardboard cover"
+	  },
+	  {
+		  "Title": "Watch Dogs Legion",
+		  "Platform": "Xbox One",
+		  "Code": "106460",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "76",
+		  "Description": "Limited Edition"
+	  },
+	  {
+		  "Title": "God of War Collection",
+		  "Platform": "PS Vita",
+		  "Code": "PCSF-00438",
+		  "PEGI": "18",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "73",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Invizimals - The Alliance",
+		  "Platform": "PS Vita",
+		  "Code": "PCSF-00164",
+		  "PEGI": "7",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "69",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Need For Speed Most Wanted",
+		  "Platform": "PS Vita",
+		  "Code": "PCSB-00183",
+		  "PEGI": "7",
+		  "State": "Loose",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "79",
+		  "Description": ""
+	  },
+	  {
+		  "Title": "Rayman Origins",
+		  "Platform": "PS Vita",
+		  "Code": "PCSB-00079",
+		  "PEGI": "7",
+		  "State": "CIB",
+		  "Date of Purchase": "2023-12-25",
+		  "Metacritic Score": "88",
+		  "Description": ""
+	  },
+	  {
 		  "Title": "",
 		  "Platform": "",
 		  "Code": "",
@@ -769,4 +1059,8 @@
 		  "Metacritic Score": "",
 		  "Description": ""
 	  }
+
+
+
+
 ]
