@@ -6,7 +6,7 @@
 		"Sub-genre": "",
 		"Author": "",
 		"Format": "",
-		"Serie": ""
+		"Saga": ""
 	},
 	{
 		"Title": "Dr. Stone T 07",
@@ -16,5 +16,59 @@
 		"Author": "Inagaki / Boichi",
 		"Format": "Pocket",
 		"Saga": "Dr. Stone"
+	},
+	{
+		"Title": "Soïchi",
+		"ISBN": "978-2-38281-146-7",
+		"Genre": "Manga",
+		"Sub-genre": "Seinen",
+		"Author": "Junji Ito",
+		"Format": "Full-Size",
+		"Saga": ""
+	},
+	{
+		"Title": "House of Leaves (english ver)",
+		"ISBN": "978-0375703768",
+		"Genre": "Roman",
+		"Sub-genre": "Thriller",
+		"Author": "Mark Z. Danielewski",
+		"Format": "Full-Size",
+		"Saga": ""
+	},
+	{
+		"Title": "Killing Joke",
+		"ISBN": "978-2-3657-7347-8",
+		"Genre": "Comics",
+		"Sub-genre": "DC",
+		"Author": "Alan Moore - Brian Bolland",
+		"Format": "Full-Size",
+		"Saga": "Batman"
+	},
+	{
+		"Title": "Deadpool Massacre Deadpool",
+		"ISBN": "978-2-8094-5331-7",
+		"Genre": "Comics",
+		"Sub-genre": "Marvel",
+		"Author": "Culenn Bunn - Salva Espin",
+		"Format": "Full-Size",
+		"Saga": "Deadpool"
+	},
+	{
+		"Title": "Little Book of Lamborghini",
+		"ISBN": "978-2-8099-2057-4",
+		"Genre": "Doc",
+		"Sub-genre": "Car",
+		"Author": "Stuart Codling",
+		"Format": "Pocket",
+		"Saga": "Little Book of"
+	},
+	{
+		"Title": "Les Simspon Horro Show T01",
+		"ISBN": "9782364807754",
+		"Genre": "BD",
+		"Sub-genre": "Simpson",
+		"Author": "Various",
+		"Format": "Full-Size",
+		"Saga": "Simpson Horror Show"
 	}
 ]
