@@ -16,7 +16,7 @@ function generateTable(data) {
   table.appendChild(headerRow);
   // Generate table rows
   data.forEach(item => {
-	  if (item["Sub-Genre"]=="Shonen") {
+	  if (item["Sub-genre"]=="Shonen") {
     const row = document.createElement('tr');
     keys.forEach(key => {
       const td = document.createElement('td');
