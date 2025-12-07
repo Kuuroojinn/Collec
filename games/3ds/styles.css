@@ -52,3 +52,18 @@ tr:nth-child(even) td {
 #table-container {
   margin-top: 20px;
 }
+a {
+	text-decoration: none;
+	display: inline-block;
+	padding: 8px 16px;
+}
+a:hover {
+	background-color: white;
+	color: #5cb6c0;
+}
+
+.back {
+	background-color: #5c6bc0;
+	color: white;
+	border-radius: 50%;
+}
