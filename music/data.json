@@ -1,0 +1,18 @@
+[
+	{
+		"Artist": "",
+		"Title": "",
+		"Date": "",
+		"Type": "",
+		"Style": "",
+		"Cover": ""
+	},
+	{
+		"Artist": "Nirvana",
+		"Title": "Nevermind",
+		"Date": "1991",
+		"Type": "Album",
+		"Style": "Rock",
+		"Cover": "Hard"
+	}
+]
