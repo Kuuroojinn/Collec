@@ -70,5 +70,50 @@
 		"Author": "Various",
 		"Format": "Full-Size",
 		"Saga": "Simpson Horror Show"
+	},
+	{
+		"Title": "The Jojolands T01",
+		"ISBN": "978-2-413-08421-1",
+		"Genre": "Manga",
+		"Sub-genre": "Shonen",
+		"Author": "Hirohiko Akari",
+		"Format": "Pocket",
+		"Saga": "JJBA"
+	},
+	{
+		"Title": "The Jojolands T02",
+		"ISBN": "978-2-413-08530-0",
+		"Genre": "Manga",
+		"Sub-genre": "Shonen",
+		"Author": "Hirohiko Araki",
+		"Format": "Pocket",
+		"Saga": "JJBA"
+	},
+	{
+		"Title": "The Jojolands T03",
+		"ISBN": "978-2-413-08531-7",
+		"Genre": "Manga",
+		"Sub-genre": "Shonen",
+		"Author": "Hirohiko Araki",
+		"Format": "Pocket",
+		"Saga": "JJBA"
+	},
+	{
+		"Title": "The Jojolands T04",
+		"ISBN": "978-2-413-08810-3",
+		"Genre": "Manga",
+		"Sub-genre": "Shonen",
+		"Author": "Hirohiko Araki",
+		"Format": "Pocket",
+		"Saga": "JJBA"
+	},
+	{
+		"Title": "The Jojolands T05",
+		"ISBN": "978-2-413-08915-5",
+		"Genre": "Manga",
+		"Sub-genre": "Shonen",
+		"Author": "Hirohiko Araki",
+		"Format": "Pocket",
+		"Saga": "JJBA"
 	}
 ]
