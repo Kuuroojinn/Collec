@@ -142,13 +142,5 @@
 		"Type": "Single",
 		"Style": "Alt",
 		"Cover": "Soft"
-	},
-	{
-		"Artist": "",
-		"Title": "",
-		"Date": "",
-		"Type": "",
-		"Style": "",
-		"Cover": ""
-	},
+	}
 ]
