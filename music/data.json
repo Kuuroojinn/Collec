@@ -1,6 +1,6 @@
 [
 	{
-		"Photo": "",
+		"Photo": "<img src='' width='150'>",
 		"Artist": "",
 		"Title": "",
 		"Date": "",
@@ -36,6 +36,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/1164779-Kendrick-Lamar-Damn/image/SW1hZ2U6MjgwMzcyMzI=' width='150'>",
 		"Artist": "Kendrick Lamar",
 		"Title": "DAMN.",
 		"Date": "2017",
@@ -44,6 +45,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/46533-Deftones-Around-The-Fur/image/SW1hZ2U6MTA0Mzg4NjY=' width='150'>",
 		"Artist": "Deftones",
 		"Title": "Around the fur",
 		"Date": "1997",
@@ -52,6 +54,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo":"<img src='https://www.discogs.com/fr/master/84819-2Pac-All-Eyez-On-Me/image/SW1hZ2U6NzcwODYwMjI=' width='150'>",
 		"Artist": "2Pac",
 		"Title": "All eyes on me",
 		"Date": "1996",
@@ -60,6 +63,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/12344-Eminem-The-Eminem-Show/image/SW1hZ2U6NTI4NTYzODI=' width='150'>",
 		"Artist": "Eminem",
 		"Title": "The Eminem Show",
 		"Date": "2002",
@@ -68,6 +72,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/301832-La-Clinique-Tout-Saigne/image/SW1hZ2U6MzQ5Njk2MDQ=' width='150'>",
 		"Artist": "La Clinique",
 		"Title": "Tout saigne",
 		"Date": "2000",
@@ -76,6 +81,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/221273-Various-Taxi-BO-Du-Film/image/SW1hZ2U6NjE4NTUyNTI=' width='150'>",
 		"Artist": "Various",
 		"Title": "Taxi - B.O. du film",
 		"Date": "1998",
@@ -84,6 +90,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/147384-One-Shot-Taxi-2/image/SW1hZ2U6Mjc3OTY3MTk=' width='150'>",
 		"Artist": "Various",
 		"Title": "Taxi 2 - One Shot",
 		"Date": "2000",
@@ -92,6 +99,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/15108-Doc-Gynéco-Première-Consultation/image/SW1hZ2U6MjY4NDkwMjQ=' width='150'>",
 		"Artist": "Doc Gyneco",
 		"Title": "Première consultation",
 		"Date": "1996",
@@ -100,6 +108,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/13859-Nirvana-In-Utero/image/SW1hZ2U6Mjc5NDMxMzk=' width='150'>",
 		"Artist": "Nirvana",
 		"Title": "In Utero - 30th anniversary edition",
 		"Date": "2023",
@@ -108,6 +117,7 @@
 		"Cover": "Semi-Soft"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/release/24526262-Stupeflip-Stup-Forever/image/SW1hZ2U6ODM2NzM4MDA=' width='150'>",
 		"Artist": "Stupeflip",
 		"Title": "Stup Forever",
 		"Date": "2022",
@@ -116,6 +126,7 @@
 		"Cover": "Semi-Soft"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/861083-Tame-Impala-Currents/image/SW1hZ2U6MTAxNjM5Nzc5' width='150'>",
 		"Artist": "Tame Impala",
 		"Title": "Currents",
 		"Date": "2015",
@@ -124,6 +135,7 @@
 		"Cover": "Semi-Soft"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/3515413-uicideboy-New-World-Depression/image/SW1hZ2U6MTEyMTI0ODMw' width='150'>",
 		"Artist": "$uicideboy$",
 		"Title": "New World Depression",
 		"Date": "",
@@ -132,6 +144,7 @@
 		"Cover": "Soft"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/3925701-uicideboy-Thy-Kingdom-Come/image/SW1hZ2U6MTI4OTk5MDQw' width='150'>",
 		"Artist": "$uicideboy$",
 		"Title": "Thy Kingdom Come",
 		"Date": "2025",
@@ -140,6 +153,7 @@
 		"Cover": "Soft"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/release/573585-Limp-Bizkit-Take-A-Look-Around-Theme-From-MI2/image/SW1hZ2U6MzQxOTI1MTI=' width='150'>",
 		"Artist": "Limp Bizkit",
 		"Title": "Take a look around",
 		"Date": "2000",
@@ -148,11 +162,12 @@
 		"Cover": "Soft"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Artist": "",
 		"Title": "",
 		"Date": "",
 		"Type": "",
 		"Style": "",
 		"Cover": ""
-	},
+	}
 ]
