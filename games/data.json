@@ -1,6 +1,6 @@
 [
 	  {
-		  "Photo": "<img src=\"https://images.launchbox-app.com//37e8aaee-ffdd-4803-89ac-676d99e81127.jpg\" width=\"150\">", 
+		  "Photo": "<img src='https://images.launchbox-app.com//37e8aaee-ffdd-4803-89ac-676d99e81127.jpg' width='150'>", 
 		  "Title": "Assassin's Creed",
 		  "Platform": "PS3",
 		  "Code": "BLES-00158",
