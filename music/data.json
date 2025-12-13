@@ -1,5 +1,6 @@
 [
 	{
+		"Photo": "",
 		"Artist": "",
 		"Title": "",
 		"Date": "",
@@ -8,6 +9,7 @@
 		"Cover": ""
 	},
 	{
+		"Photo": "<img src=\"https://www.discogs.com/fr/master/13814-Nirvana-Nevermind/image/SW1hZ2U6ODk0MzkzNzk=\" width=\"150\">",
 		"Artist": "Nirvana",
 		"Title": "Nevermind",
 		"Date": "1991",
@@ -16,6 +18,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src=\"https://www.discogs.com/fr/master/35626-System-Of-A-Down-Toxicity/image/SW1hZ2U6MTQ0Njk2OQ==\" width=\"150\">",
 		"Artist": "System Of A Down",
 		"Title": "Toxicity",
 		"Date": "2001",
@@ -24,6 +27,7 @@
 		"Cover": "Hard"
 	},
 	{
+		"Photo": "<img src=\"https://www.discogs.com/fr/master/53314-Slipknot-Slipknot/image/SW1hZ2U6NDMzMDAxNDc=\" width=\"150\">",
 		"Artist": "Slipknot",
 		"Title": "Slipknot",
 		"Date": "1999",
