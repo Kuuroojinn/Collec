@@ -19,7 +19,7 @@ function generateTable(data) {
     const row = document.createElement('tr');
     keys.forEach(key => {
       const td = document.createElement('td');
-      td.textContent = item[key] || ""; // Fill empty fields with blank
+      td.innerHTML = item[key] || ""; // Fill empty fields with blank
       row.appendChild(td);
     });
     table.appendChild(row);
