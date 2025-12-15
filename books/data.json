@@ -1,6 +1,6 @@
 [
 	{
-		"Photo": "",
+		"Photo": "<img src='' width='150'>",
 		"Title": "",
 		"ISBN": "",
 		"Genre": "",
@@ -10,6 +10,7 @@
 		"Saga": ""
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Dr. Stone T 07",
 		"ISBN": "978-2-344-03631-0",
 		"Genre": "Manga",
@@ -19,6 +20,7 @@
 		"Saga": "Dr. Stone"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Soïchi",
 		"ISBN": "978-2-38281-146-7",
 		"Genre": "Manga",
@@ -28,6 +30,7 @@
 		"Saga": ""
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "House of Leaves (english ver)",
 		"ISBN": "978-0375703768",
 		"Genre": "Roman",
@@ -37,6 +40,7 @@
 		"Saga": ""
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Killing Joke",
 		"ISBN": "978-2-3657-7347-8",
 		"Genre": "Comics",
@@ -46,6 +50,7 @@
 		"Saga": "Batman"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Deadpool Massacre Deadpool",
 		"ISBN": "978-2-8094-5331-7",
 		"Genre": "Comics",
@@ -55,6 +60,7 @@
 		"Saga": "Deadpool"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Little Book of Lamborghini",
 		"ISBN": "978-2-8099-2057-4",
 		"Genre": "Doc",
@@ -64,6 +70,7 @@
 		"Saga": "Little Book of"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Les Simspon Horror Show T01",
 		"ISBN": "9782364807754",
 		"Genre": "BD",
@@ -73,6 +80,7 @@
 		"Saga": "Simpson Horror Show"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "The Jojolands T01",
 		"ISBN": "978-2-413-08421-1",
 		"Genre": "Manga",
@@ -82,6 +90,7 @@
 		"Saga": "JJBA"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "The Jojolands T02",
 		"ISBN": "978-2-413-08530-0",
 		"Genre": "Manga",
@@ -91,6 +100,7 @@
 		"Saga": "JJBA"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "The Jojolands T03",
 		"ISBN": "978-2-413-08531-7",
 		"Genre": "Manga",
@@ -100,6 +110,7 @@
 		"Saga": "JJBA"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "The Jojolands T04",
 		"ISBN": "978-2-413-08810-3",
 		"Genre": "Manga",
@@ -109,6 +120,7 @@
 		"Saga": "JJBA"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "The Jojolands T05",
 		"ISBN": "978-2-413-08915-5",
 		"Genre": "Manga",
@@ -118,6 +130,7 @@
 		"Saga": "JJBA"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Death Note - Black Edition T01",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -127,6 +140,7 @@
 		"Saga": "Death Note"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Death Note - Black Edition T02",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -136,6 +150,7 @@
 		"Saga": "Death Note"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Death Note - Black Edition T03",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -145,6 +160,7 @@
 		"Saga": "Death Note"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Death Note - Black Edition T04",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -154,6 +170,7 @@
 		"Saga": "Death Note"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Death Note - Black Edition T05",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -163,6 +180,7 @@
 		"Saga": "Death Note"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Death Note - Black Edition T06",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -172,6 +190,7 @@
 		"Saga": "Death Note"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Death Note - Short Stories",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -181,6 +200,7 @@
 		"Saga": "Death Note"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Death Note T13",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -190,6 +210,7 @@
 		"Saga": "Death Note"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Phantom Blood T01",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -199,6 +220,7 @@
 		"Saga": "JJBA"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Phantom Blood T02",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -208,6 +230,7 @@
 		"Saga": "JJBA"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Phantom Blood T03",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -217,6 +240,7 @@
 		"Saga": "JJBA"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "Deadpool Samurai",
 		"ISBN": "",
 		"Genre": "Manga",
@@ -226,6 +250,7 @@
 		"Saga": "Deadpool"
 	},
 	{
+		"Photo": "<img src='' width='150'>",
 		"Title": "",
 		"ISBN": "",
 		"Genre": "",
