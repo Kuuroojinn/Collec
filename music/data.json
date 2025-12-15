@@ -162,6 +162,24 @@
 		"Cover": "Soft"
 	},
 	{
+		"Photo": "<img src='https://www.discogs.com/fr/release/5899151-Pause-Pause/image/SW1hZ2U6MTM0NjcwODM=' width='150'>",
+		"Artist": "Pause",
+		"Title": "Pause",
+		"Date": "2006",
+		"Type": "Album",
+		"Style": "Alt",
+		"Cover": "Soft"
+	},
+	{
+		"Photo": "<img src='https://www.discogs.com/fr/master/97142-Various-Hostile-Hip-Hop/image/SW1hZ2U6MzEyOTIwMDI=' width='150'>",
+		"Artist": "Various",
+		"Title": "Hostile Hip-Hop",
+		"Date": "1996",
+		"Type": "Album",
+		"Style": "Rap Fr",
+		"Cover": "Hard"
+	},
+	{
 		"Photo": "<img src='' width='150'>",
 		"Artist": "",
 		"Title": "",
@@ -170,4 +188,6 @@
 		"Style": "",
 		"Cover": ""
 	}
+
+
 ]
