@@ -29,7 +29,7 @@ function generateTable(data) {
 // Render the table
 //fetch('https://kuuroojinn.github.io/Collec/data.json').then((response) => response.json()).then((data) => console.log(data));
 async function getData() {
-	const url = "https://kuuroojinn.github.io/Collec/games/data.json";
+	const url = "https://kuuroojinn.github.io/Collec/music/data.json";
 	try {
 		const response = await fetch(url);
 		if (!response.ok) {
