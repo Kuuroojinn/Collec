@@ -37,7 +37,7 @@ async function getData() {
 		}
 		const result = await response.json();
 		result.sort(function (a,b) {
-			return a.Title < b.Title ? -1 : 1;
+			return a.Artist < b.Artist ? -1 : 1;
 		});
 		const container = document.getElementById('table-container');
 		const table = generateTable(result);
