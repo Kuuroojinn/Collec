@@ -7,3 +7,4 @@
 - [Reggae](reggae/reggae.html)
 - [Electro](electro/electro.html)
 - [Other](other/other.html)
+- [All](all/all.html)
