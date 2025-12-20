@@ -11,8 +11,8 @@ The github pages are taking the information directly from the JSON file so I don
 > Feel free to submit an issue if you want, it'll help me keeps things clean
 
 
-| Games | Books |
-| --- | --- |
-| [<img src="img/controller.png" width="100">](games/games.md)   | [<img src="img/books.png" width="100">](books/books.md) | 
+| Games | Books | Music |
+| --- | --- | --- |
+| [<img src="img/controller.png" width="100">](games/games.md)   | [<img src="img/books.png" width="100">](books/books.md) | [Music](music/music.md)
 
 
