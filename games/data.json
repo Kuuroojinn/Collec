@@ -1354,6 +1354,50 @@
 		  "Description": "Platinum Edition"
 	  },
 	  {
+		  "Photo": "<img src='https://images.launchbox-app.com//260e8781-2276-4c14-ade3-ba8a50f32253.jpg' width='150'>",
+		  "Title": "Puyo Puyo Tetris 2",
+		  "Platform": "PS4",
+		  "Code": "CUSA-24366",
+		  "PEGI": "3",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "80",
+		  "Description": ""
+	  },
+	{
+		  "Photo": "<img src='https://gamesdb-images.launchbox.gg/r2_9585e921-7bde-47e8-aaed-68f432d4ca14.jpg' width='150'>",
+		  "Title": "God Of War",
+		  "Platform": "PS4",
+		  "Code": "CUSA-07410",
+		  "PEGI": "18",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "94",
+		  "Description": ""
+	  },
+	{
+		  "Photo": "<img src='https://images.launchbox-app.com//d51578d2-1afe-4721-9408-cd878dc440e9.jpg' width='150'>",
+		  "Title": "Final Fantasy XV",
+		  "Platform": "PS4",
+		  "Code": "CUSA-01615",
+		  "PEGI": "16",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "81",
+		  "Description": "Edition Deluxe Steelbook"
+	  },
+	{
+		  "Photo": "<img src='https://images.launchbox-app.com//b51ddb19-e093-43aa-ab1e-bb8a3f22410c.jpg' width='150'>",
+		  "Title": "Project Cars 2",
+		  "Platform": "PS4",
+		  "Code": "CUSA-04093",
+		  "PEGI": "3",
+		  "State": "CIB",
+		  "Date of Purchase": "",
+		  "Metacritic Score": "82",
+		  "Description": "Edition Steelbook"
+	  },
+	{
 		  "Photo": "<img src='' width='150'>",
 		  "Title": "",
 		  "Platform": "",
