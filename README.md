@@ -13,6 +13,6 @@ The github pages are taking the information directly from the JSON file so I don
 
 | Games | Books | Music |
 | --- | --- | --- |
-| [<img src="img/controller.png" width="100">](games/games.md)   | [<img src="img/books.png" width="100">](books/books.md) | [Music](music/music.md)
+| [<img src="img/controller.png" width="100">](games/games.md)   | [<img src="img/books.png" width="100">](books/books.md) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" width="100">](music/music.md)
 
 
